@@ -1,0 +1,28 @@
+/* base.css */
+
+/* Reset some default margins and padding for consistency across browsers */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set a default font for the page */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Basic layout styles for body */
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    background-color: #ffffff;
+}
+
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif;
+}
